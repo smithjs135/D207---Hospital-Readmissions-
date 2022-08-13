@@ -6,6 +6,7 @@ ________________________________________________________________________________
 **Packages:** pandas, numpy, scipy, seaborn, matplotlib
 ## EDA
 Here are boxplots of some of the categorical features:
+
 ![alt text](https://github.com/smithjs135/ D207---Hospital-Readmissions-/blob/main/ boxplot_ReAdmis-Initial_days.jpg  "Readmission – initial days")
 
 
