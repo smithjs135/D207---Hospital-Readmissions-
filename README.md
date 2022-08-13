@@ -40,7 +40,7 @@ https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_wit
 2.	Sani Kamal (2019, Multiple pages). Introduction to Multivariate Analysis
 https://www.kaggle.com/sanikamal/introduction-to-multivariate-analysis
 
-## Sources
+## Sources(in-line)
 1.	Saunders ND, Nichols SD, Antiporda MA, Johnson K, Walker K, Nilsson R, Graham L, Old M, Klisovic RB, Penza S, Schmidt CR. (October 15, 2011–April 15, 2012). Examination of Unplanned 30-Day Readmissions to a Comprehensive Cancer Hospital. https://ascopubs.org/doi/10.1200/JOP.2014.001546
 
 2.	Mary MchHugh (Jun, 2013, Section: Introduction). The Chi-square test of independence
